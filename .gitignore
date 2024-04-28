@@ -1,0 +1,5 @@
+# Ignore the binanry files
+main
+
+# Ignore the .DS_Store files
+.DS_Store
